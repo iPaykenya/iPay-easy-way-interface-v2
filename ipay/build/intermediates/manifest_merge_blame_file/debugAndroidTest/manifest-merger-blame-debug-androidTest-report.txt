@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ipay.ipayClass.test" >
+4
+5    <uses-sdk
+5-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:5:5-74
+6        android:minSdkVersion="17"
+6-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:11:5-15:73
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:11:22-76
+11        android:functionalTest="false"
+11-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:13:22-53
+13        android:label="Tests for com.ipay.ipayClass.test"
+13-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:15:22-71
+14        android:targetPackage="com.ipay.ipayClass.test" />
+14-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:12:22-69
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[__tested_artifact__::ipay] /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+16-->[__tested_artifact__::ipay] /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.REORDER_TASKS" />
+17-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:24:5-72
+17-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:24:22-69
+18
+19    <application
+19-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:7:5-9:19
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.0.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/1181750908fd6f00e35bbbad0a70fee1/core-1.0.0/AndroidManifest.xml:22:18-86
+21        android:debuggable="true" >
+21-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:7:18-43
+22        <uses-library android:name="android.test.runner" />
+22-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:8:9-60
+22-->/home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8255261055198420022.xml:8:23-57
+23
+24        <activity
+24-->[__tested_artifact__::ipay] /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-17:59
+25            android:name="com.ipay.ipayClass.CardActivity"
+25-->[__tested_artifact__::ipay] /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-59
+26            android:label="@string/title_activity_card"
+26-->[__tested_artifact__::ipay] /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-56
+27            android:theme="@style/AppTheme.NoActionBar" />
+27-->[__tested_artifact__::ipay] /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-56
+28        <activity
+28-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:27:9-33:20
+29            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+29-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:28:13-99
+30            android:theme="@android:style/Theme" >
+30-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:29:13-49
+31            <intent-filter>
+31-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:30:13-32:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:31:17-69
+32-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:31:25-66
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:34:9-40:20
+36            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+36-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:35:13-95
+37            android:theme="@android:style/Theme" >
+37-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:36:13-49
+38            <intent-filter>
+38-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:30:13-32:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:31:17-69
+39-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:31:25-66
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:41:9-47:20
+43            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+43-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:42:13-103
+44            android:theme="@android:style/Theme.Dialog" >
+44-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:43:13-56
+45            <intent-filter>
+45-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:30:13-32:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:31:17-69
+46-->[androidx.test:core:1.2.0] /home/METROPOL0/joshua.kisee/.gradle/caches/transforms-2/files-2.1/30e84f4ff2e98d8eba87fef55e1da32f/core-1.2.0/AndroidManifest.xml:31:25-66
+47            </intent-filter>
+48        </activity>
+49    </application>
+50
+51</manifest>

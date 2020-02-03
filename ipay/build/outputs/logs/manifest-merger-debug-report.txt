@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:7:5-12:19
+activity#com.ipay.ipayClass.CardActivity
+ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:8:9-11:68
+	android:label
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:10:13-56
+	android:theme
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:11:13-56
+	android:name
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml:9:13-59
+uses-sdk
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+		ADDED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml
+		INJECTED from /home/METROPOL0/joshua.kisee/AndroidStudioProjects/iPay-easy-way-interface-master/ipay/src/main/AndroidManifest.xml

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/mpesa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="mpesa" />
+
+        <Button
+            android:id="@+id/bonga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="bonga" />
+
+        <Button
+            android:id="@+id/airtel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="airtel" />
+
+        <Button
+            android:id="@+id/eazzy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="eazzypay" />
+
+        <Button
+            android:id="@+id/card"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="visa" />
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
