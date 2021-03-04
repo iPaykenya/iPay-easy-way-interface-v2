@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccentipay">#F29103</color>
+    <color name="colorBackDarkipay">#3763bc</color>
+    <color name="colorBlack">#333030</color>
+    <color name="colorDivideripay">#B6B6B6</color>
+    <color name="colorPrimaryDarkipay">#303F9F</color>
+    <color name="colorPrimaryLightipay">#CCCCD9</color>
+    <color name="colorPrimaryTextipay">#212121</color>
+    <color name="colorPrimaryipay">#020570</color>
+    <color name="colorSecondaryTextipay">#727272</color>
+    <color name="colorTextipay">#FFFFFF</color>
+    <color name="colorWifiIconipay">#4a77d2</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="airtel_step1"> 1. Go to the Airtel Money menu on your phone.</string>
+    <string name="airtel_step10"> 10. Then click on the Confirm Payment Done button belowy.</string>
+    <string name="airtel_step2"> 2. Select To Make Payments.</string>
+    <string name="airtel_step3"> 3. Select Pay Bill Option.</string>
+    <string name="airtel_step4"> 4. Select Others.</string>
+    <string name="airtel_step5"> 5. Enter the Business name 510800.</string>
+    <string name="airtel_step6"> 6. Enter the EXACT amount(KSh. 58.00 ).</string>
+    <string name="airtel_step7"> 7. Enter your PIN.</string>
+    <string name="airtel_step8"> 8. Enter PA148530B as the Reference and then send the money.</string>
+    <string name="airtel_step9"> 9. You will receive a transaction confirmation SMS from Airtel Money.</string>
+    <string name="app_name">iPay easy way</string>
+    <string name="eazzy_step1"> 1. Log in to your EazzyBanking App or Equitel Menu.</string>
+    <string name="eazzy_step10"> 10. Then click on the Confirm Payment Done button below.</string>
+    <string name="eazzy_step2"> 2. Click the + button and Select Paybill Option.</string>
+    <string name="eazzy_step3"> 3. Enter Business Number: 510800.</string>
+    <string name="eazzy_step4"> 4. Enter PA148530B as the Account Number.</string>
+    <string name="eazzy_step5"> 5. Enter the EXACT amount (KSh. 58.00 ).</string>
+    <string name="eazzy_step6"> 6. Then click PAY/Send.</string>
+    <string name="eazzy_step7"> 7. Complete your transaction on your phoned.</string>
+    <string name="eazzy_step8"> 8. You will receive a transaction confirmation SMS from EQUITY BANK.</string>
+    <string name="eazzy_step9"> 9. You will also receive a courtesy transaction confirmation SMS from iPay.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mbonga_step1">1. Dial *126# and select Lipa na Bonga Points.</string>
+    <string name="mbonga_step2">2. Select Pay Bill</string>
+    <string name="mbonga_step3">3. Enter 510800 as the Paybill</string>
+    <string name="mbonga_step4">4. Enter Account Number (DEMO5ADD787F302)</string>
+    <string name="mbonga_step5">5. Enter the EXACT Amount KSh. 40.00</string>
+    <string name="mbonga_step6">6. Please confirm payment of KSh. 40.00 worth to iPay Ltd</string>
+    <string name="mbonga_step7">7. Enter your Bonga Points PIN</string>
+    <string name="mbonga_step8">8. You will receive a transaction confirmation SMS</string>
+    <string name="mbonga_step9">9. Then click on the Confirm Payment Done button below</string>
+    <string name="title_activity_main">MainActivity</string>
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorAccentipay</item>
+        <item name="android:textColorPrimary">@color/colorBlack</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light"/>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

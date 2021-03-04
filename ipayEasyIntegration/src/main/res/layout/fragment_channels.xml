@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main_content"
+    tools:context=".Channel">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/back_card"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true">
+        <ImageView
+            android:id="@+id/my_back"
+            android:padding="10dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_back"/>
+    </android.support.v7.widget.CardView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/layout_channel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/title"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="choose payment option"/>
+
+    <ImageButton
+        android:id="@+id/mpesa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#388E3C"
+        android:padding="20dp"
+        android:src="@drawable/mpesa100" />
+
+    <ImageButton
+        android:id="@+id/mbonga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#388E3C"
+        android:padding="20dp"
+        android:src="@drawable/bongapoints100" />
+
+
+    <ImageButton
+        android:id="@+id/airtel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#F44336"
+        android:padding="20dp"
+        android:src="@drawable/airtel_money100" />
+
+    <ImageButton
+        android:id="@+id/ezzy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#7c3933"
+        android:padding="20dp"
+        android:src="@drawable/eazzypay100" />
+
+
+    <ImageButton
+        android:id="@+id/visa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#2196F3"
+        android:padding="20dp"
+        android:src="@drawable/visa_mastercard100" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/equity_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/ezzy_pay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="#7c3933"
+            android:padding="20dp"
+            android:src="@drawable/eazzypay100" />
+
+        <ImageButton
+            android:id="@+id/equitel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@color/colorDivideripay"
+            android:padding="20dp"
+            android:src="@drawable/equitel100" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_payment_mbonga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <include layout="@layout/layout_payment_mbonga" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/layout_payment_airtel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <include layout="@layout/layout_payment_airtel" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_payment_eazzy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <include layout="@layout/layout_payment_eazzy" />
+    </LinearLayout>
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

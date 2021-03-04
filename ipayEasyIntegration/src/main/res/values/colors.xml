@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryipay">#020570</color>
+    <color name="colorPrimaryLightipay">#CCCCD9</color>
+    <color name="colorPrimaryDarkipay">#303F9F</color>
+    <color name="colorBackDarkipay">#3763bc</color>
+    <color name="colorWifiIconipay">#4a77d2</color>
+    <color name="colorAccentipay">#F29103</color>
+    <color name="colorTextipay">#FFFFFF</color>
+    <color name="colorPrimaryTextipay">#212121</color>
+    <color name="colorSecondaryTextipay">#727272</color>
+    <color name="colorDivideripay">#B6B6B6</color>
+    <color name="colorBlack">#333030</color>
+</resources>
