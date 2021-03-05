@@ -1,1 +1,1 @@
-include ':app', ':ipay Ui', ':ipay'
+include ':app', ':ipay Ui', ':ipay',':ipayEasyIntegration'
